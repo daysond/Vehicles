@@ -466,6 +466,7 @@
 				F5961A5517DD013A008D39EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F5961A5617DD013A008D39EA /* Build configuration list for PBXNativeTarget "VehiclesTests" */ = {
 			isa = XCConfigurationList;
@@ -474,6 +475,7 @@
 				F5961A5817DD013A008D39EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
